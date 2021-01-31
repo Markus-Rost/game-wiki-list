@@ -1,1 +1,9 @@
-[]
+[
+	{
+		"url": "https://minecraft.gamepedia.com/",
+		"games": [
+			"Minecraft",
+			"Minecraft Earth"
+		]
+	}
+]
