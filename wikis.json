@@ -6,5 +6,11 @@
 			"Minecraft Earth",
 			"Minecraft Dungeons"
 		]
+	},
+	{
+		"url": "https://wikibot.fandom.com/",
+		"games": [
+			"Wiki-Bot"
+		]
 	}
 ]
