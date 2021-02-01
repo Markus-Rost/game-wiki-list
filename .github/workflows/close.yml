@@ -14,5 +14,5 @@ jobs:
         uses: peter-evans/close-pull@v1
         with:
           token: ${{ secrets.WIKIBOT_TOKEN }}
-          comment: Auto-closing pull request
+          comment: Closing pull request due to empty commit.
           delete-branch: true
